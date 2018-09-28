@@ -1,7 +1,8 @@
 .box {
     border: 1px solid teal;
     padding: 15px;
-    margin: 30px auto;
+    margin: auto;
+    margin-top: 50px;
     width: 300px;
     height: 350px;
     background-color: aliceblue;

@@ -1,0 +1,11 @@
+.box {
+    border: 1px solid teal;
+    padding: 15px;
+    margin: 30px auto;
+    width: 300px;
+    height: 350px;
+}
+
+div.item > * {
+    display: inline;
+}
